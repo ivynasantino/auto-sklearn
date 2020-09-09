@@ -1,4 +1,4 @@
-git+https://github.com/ivynasantino/auto-sklearn.git@21f504c
+git+https://github.com/ivynasantino/auto-sklearn.git@f6b358c
 setuptools
 
 numpy>=1.9.0
